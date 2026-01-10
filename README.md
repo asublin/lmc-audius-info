@@ -253,12 +253,24 @@ download *The Hologram* and save it in file `the_hologram.flac`.
 ## How to create a challenge
 
 1. Go to https://audius.co/libremusicchallenge
-2. Click on Upload
-3. 
+2. Click on *Upload Track*
+3. Upload soundtrack from [lmc-soundtrack](https://github.com/libremusicchallenge/lmc-soundtrack/blob/main/lmc-introductory-theme/export/lmc-theme_r1_session_2025-12-31.flac)
+4. Click on *Continue Uploading*
+5. Set *Track Name* to LMC#ROUND_NUMBER
+6. Set *Genre* to *Electronic*
+7. Set *Mood* to *Other*
+8. Set *Artwork*
+9. Click on *Upload* (or such)
+10. Once uploaded click on *Visit Track Page*
+11. Click on *...* then *Host Remix Contest*
+12. 
 
 ## Resources
 
 - https://stackoverflow.com/questions/39404922/tsc-command-not-found-in-compiling-typescript
 - https://turborepo.com/docs/getting-started/installation
 - https://docs.audius.org/
+- https://docs.audius.org/sdk/
 - https://audius.co/libremusicchallenge
+- https://github.com/antazoey/audius-py
+- https://www.youtube.com/watch?v=XZcgOpytOB8&t=790s
